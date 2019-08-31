@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:v1.8.4
+FROM gcr.io/google_containers/kube-proxy:v1.15.3
 MAINTAINER mritd <mritd@mritd.me>
